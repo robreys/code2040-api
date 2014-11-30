@@ -1,5 +1,5 @@
 /*
-	Appends buttons bound with function calls to HTML DOM
+	Binds buttons to function calls
 	-Roberto Reyes
 */
 $(document).ready(function() {
