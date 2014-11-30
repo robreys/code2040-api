@@ -6,7 +6,7 @@ solutions to each of the stages of the challenge, each stage
 labelled as a comment above its corresponding function. I utilized
 the JavaScript library 'jQuery', primarily to facilitate the api
 endpoint requests, but also to take advantage of certain functions
-described below. Included is a simble browser interface. The file,
+described below. Included is a simple browser interface. The file,
 index.html, which can be opened in a browser, displays buttons that
 can be used to trigger the functions in js/functions.js. The leftmost
 box will display the problem received when a function
