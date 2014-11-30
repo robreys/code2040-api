@@ -1,0 +1,22 @@
+/*
+	Simple stylesheet for demonstration
+*/
+html, body {
+	height: 100%;
+}
+.problem, .solution {
+	width: 45%;
+	display: inline-block;
+	overflow-y: scroll;
+	height: 100%;
+	background-color: #eee;
+	text-align: left;
+}
+.output {
+	height: 50%;
+	text-align: center;
+}
+.input {
+	height: 20%;
+	text-align: center;
+}
