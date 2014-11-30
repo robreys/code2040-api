@@ -6,10 +6,10 @@ solutions to each of the stages of the challenge, each stage
 labelled as a comment above its corresponding function. I utilized
 the JavaScript library 'jQuery', primarily to facilitate the api
 endpoint requests, but also to take advantage of certain functions
-described below. Included is an index.html file which can be opened
-in a browser. This html file displays buttons that can be used to
-trigger the functions in js/functions.js. The leftmost box displayed
-by the html file will display the problem received when a function
+described below. Included is a simble browser interface. The file,
+index.html, which can be opened in a browser, displays buttons that
+can be used to trigger the functions in js/functions.js. The leftmost
+box will display the problem received when a function
 is triggered, while the rightmost box will display the solution to
 the problem once it has been solved by the function.
 ![alt tag](https://raw.github.com/robreys/code2040-api/master/browser.png)
