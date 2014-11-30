@@ -12,7 +12,9 @@ trigger the functions in js/functions.js. The leftmost box displayed
 by the html file will display the problem received when a function
 is triggered, while the rightmost box will display the solution to
 the problem once it has been solved by the function.
-Below is an overview to my solutions:
+![alt tag](https://raw.github.com/robreys/code2040-api/master/browser.png)
+
+#Solutions Overview:
 
 ##Stage I: Reverse a string
 For this problem, I took a string and converted it to an array
